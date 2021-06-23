@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rclc_parameter.h": "c",
+        "int32.h": "c",
+        "type_utilities.h": "c"
+    }
+}
